@@ -1,4 +1,4 @@
 # Inverse-Kinematics-of-Dagu-Arm
 
-Run start.m
-![Alt text](daf.jpg?raw=true "Optional Title")
+Run start.m \n
+![Alt text](daf.PNG?raw=true "Optional Title")
