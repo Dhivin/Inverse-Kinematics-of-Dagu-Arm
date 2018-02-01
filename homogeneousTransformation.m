@@ -2,9 +2,9 @@ function A = homogeneousTransformation(a, d, degreesAlpha, degreesTheta)
 % Creates a DH homogeneous transformation matrix from DH parameters.
 alpha = degreesAlpha/180*pi;  % Convert to radians
 theta = degreesTheta/180*pi;  % Convert to radians
-
+wwww
 A = zeros(4,4);
-
+% git push
 A(1,1) = cos(theta);
 A(1,2) = -sin(theta)*cos(alpha);
 A(1,3) = sin(theta)*sin(alpha);
